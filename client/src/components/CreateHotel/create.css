@@ -1,0 +1,43 @@
+.create-container{
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-height: 80%;
+    height: 80%;
+    padding-left: 40px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    padding-right: 40px;
+    min-height: 850px;
+  }
+  .create-name{
+    position: absolute;
+    top: 5%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     font-size: 45px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .input-container.create{
+    margin-top: 1%;
+  }
+  .create-btn{
+    position: absolute;
+    bottom: 0%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+  }
+  .create-background-container{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+    padding-top: 6%;
+    padding-left: 35%;
+    display: grid; 
+    min-height: 900px;
+  }

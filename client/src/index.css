@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://th.bing.com/th/id/R.bd1ab0de45d71f142942c90990c30bdd?rik=xhdQk4uJBjY61w&riu=http%3a%2f%2fpreviewchicago.com%2fwp-content%2fuploads%2f2015%2f06%2fexterior-luxurious-hill-side-mansion-in-cream-tone-with-awesome-backyard-natural-stone-pool-decoration-and-dressy-green-tone-of-tropical-trees-also-heavenly-swimming-pool-around-glamorou-1024x682.jpg&ehk=ub6%2bpJ45bJfMbYVn5RUqpR6fRjrdTWNTHtJgWJ%2b9s6k%3d&risl=&pid=ImgRaw&r=0);
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html,body {
+  height:100vh;
+  width:100vw;
+  margin:0;
+}
+

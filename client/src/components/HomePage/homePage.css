@@ -1,0 +1,22 @@
+.homepage-title-container{
+    color: white;
+    margin-top: 13.5%;
+    margin-left: 15%;
+  }
+  .homepage-title{
+    font-size: 100px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .homepage-subheading{
+    font-family: 'Poppins', sans-serif;
+    font-size: 63px;
+  }
+  .homepage-miniheading{
+    font-family: 'Poppins', sans-serif;
+    font-size: 53px;
+
+  }
+  .homepage-link{
+    color: white;
+
+  }
